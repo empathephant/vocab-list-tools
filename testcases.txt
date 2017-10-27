@@ -1,0 +1,73 @@
+I suppose there's a good reason for his absence.
+The computer’s video display was broken.
+He's an ordinary man with no exciting interests.
+He's trying to break his bad eating habits.
+A young child's brain changes rapidly.
+When an opportunity like this arises, don't run from it.
+He's an increasingly prominent politician.
+From her analysis, we can derive that the company’s income declined.
+Promoting this behavior is against the country’s cultural norms.
+That isn't a reason to exclude others.
+I'll flip a mechanical switch.
+The worker’s pay is the rough equivalent of minimum wage.
+My treatment was in full compliance with my doctor’s orders.
+There's an inherent risk because of those dangers.
+I'd say the goods are reasonably priced.
+I'll follow the footsteps of my corporate predecessors.
+That's an established scientific rule.
+The restaurant’s day-to-day success is notable.
+Surprisingly we don’t find misery in areas of widespread poverty.
+The city’s provincial council will make this decision.
+It's under a remote controlled system.
+He rightly noted that the company hadn’t observed every law.
+We don't know if this will enhance or inhibit development.
+We can alleviate poverty, but it's harder to prevent it.
+The student’s lack of effort hindered their teacher.
+The athlete was injured due to the floor’s uneven surface.
+Relatively trivial matters shouldn't take this amount of time.
+6: The company’s five-year plan is ambitious.
+7: The U.S. government's policy has changed.
+3: I haven’t had time to analyze the available data.
+7: We must reduce the city’s population density.
+6: The nation's security should be our main concern.
+7: Thus, we can effectively reinforce the area’s weaknesses.
+2: She earned her master's degree from that university.
+4: I can't give a definitive answer.
+6: Let’s examine the main section of the building.
+4: I don't find it remarkable; I actually find it rather odd.
+10: The environment is not safe; it's hostile.
+7: We must value a student’s cultural identity.
+1: The city’s effort to prevent crime was successful.
+3: It's a perfect time and place for the meeting.
+4: I'm absolutely certain that this is correct.
+7: It’s not possible to examine your future in detail.
+6: It's within my local county district.
+6: Our target audience likely won't respond well.
+7: I'm training to increase my physical strength.
+9: Obviously, you're very intelligent.
+8: It's not the regular season for a football game.
+6: It's important to maintain a healthy weight.
+8: Let’s review the proposal before we submit it.
+9: The correct answer shouldn’t be too obvious.
+3: I suppose there's a good reason for his absence.
+8: The computer’s video display was broken.
+12: He's an ordinary man with no exciting interests.
+1: He's trying to break his bad eating habits.
+4: A young child's brain changes rapidly.
+11: When an opportunity like this arises, don't run from it.
+2: He's an increasingly prominent politician.
+8: From her analysis, we can derive that the company’s income declined.
+9: Promoting this behavior is against the country’s cultural norms.
+12: That isn't a reason to exclude others.
+6: I'll flip a mechanical switch.
+2: The worker’s pay is the rough equivalent of minimum wage.
+6: My treatment was in full compliance with my doctor’s orders.
+12: There's an inherent risk because of those dangers.
+11: I'd say the goods are reasonably priced.
+12: I'll follow the footsteps of my corporate predecessors.
+8: That's an established scientific rule.
+12: The restaurant’s day-to-day success is notable.
+3: Surprisingly we don’t find misery in areas of widespread poverty.
+4: The city’s provincial council will make this decision.
+10: It's under a remote controlled system.
+5: He rightly noted that the company hadn’t observed every law.
